@@ -1,0 +1,5 @@
+.DS_Store
+dt_aufnahmen/*
+.obsidian/*
+!.obsidian/graph.json
+dt_uebungen/*
