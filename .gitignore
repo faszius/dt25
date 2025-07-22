@@ -3,3 +3,4 @@ dt_aufnahmen/*
 .obsidian/*
 !.obsidian/graph.json
 dt_uebungen/*
+dt_tutorium/*
