@@ -1,5 +1,6 @@
 .DS_Store
 dt_aufnahmen/*
+dt_materialien/*
 .obsidian/*
 !.obsidian/graph.json
 dt_uebungen/*
