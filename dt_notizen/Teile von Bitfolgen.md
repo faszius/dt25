@@ -2,6 +2,9 @@
 tags:
   - foliensatz/01
   - cleaned
+aliases:
+  - Bitfolge
+  - Bitfolgen
 ---
 Mehrere Bits hintereinander nennt man eine "Bitfolge". Je nachdem wie lang diese Bitfolge ist, nennt man sie anders. Ein "Byte" sind zum Beispiel acht Bit.
 

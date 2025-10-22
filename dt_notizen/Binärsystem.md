@@ -4,9 +4,10 @@ tags:
   - "#MoC"
   - cleaned
 Related:
-  - "[[Zweierpotenzen]]"
+  - "[[Potenzen]]"
   - "[[Größenfaktoren]]"
   - "[[Teile von Bitfolgen]]"
+  - "[[Addition von Binärzahlen]]"
 ---
 
 ## Binärsystem Als Digitale Disziplin
