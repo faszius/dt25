@@ -4,10 +4,6 @@ tags:
   - "#MoC"
   - cleaned
 ---
-- Beherrschen von Komplexität
-- Digitale Abstraktion
-- Zahlensysteme
-- ...
 
 ## Beherrschen Von Komplexität
 
