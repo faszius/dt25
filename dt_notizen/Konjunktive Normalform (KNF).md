@@ -4,6 +4,9 @@ tags:
   - cleaned
 Related:
   - "[[Maxterm]]"
+aliases:
+  - Konjunktive Normalform
+  - KNF
 ---
 
 - Produkt aller [[Maxterm|Maxterme]], für welche die Funktion _falsch_ ist
