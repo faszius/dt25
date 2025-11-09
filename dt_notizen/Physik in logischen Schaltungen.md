@@ -1,11 +1,9 @@
 ---
 tags:
-  - foliensatz/02
-  - foliensatz/03
   - MoC
+  - foliensatz/03
   - cleaned
 ---
-[[Logikgatter]]
 [[Spannungen als Logikpegel]]
 [[Feldeffekt-Transistoren]]
 [[CMOS-Schaltungen]]

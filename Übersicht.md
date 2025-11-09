@@ -1,26 +1,52 @@
 ---
 tags:
   - MoC
+  - linker-exclude
 ---
+
+***
 [[Beherrschen von Komplexität]]
 	[[Abstraktion]]
 	[[Disziplin]]
 	[[Hierarchie, Modularität und Regularität]]
+***
 [[Hardwarebeschreibungssprachen]]
-[[Binärsystem]]
-	[[Potenzen]]
-	[[Größenfaktoren]]
-	[[Teile von Bitfolgen]]
-	[[Addition von Binärzahlen]]
-		[[Bitbreitenerweiterung]]
+[[SystemVerilog]]
+	[[SystemVerilog für numerische Literale]]
+	[[SystemVerilog Syntax]]
+	[[SystemVerilog für Logikgatter]]
+	[[SystemVerilog Module]]
+		[[SystemVerilog Verhaltens- und Strukturbeschreibung]]
+***
 [[Zahlensysteme]]
+	[[Binärsystem]]
+		[[Potenzen]]
+		[[Größenfaktoren]]
+		[[Teile von Bitfolgen]]
+		[[Addition von Binärzahlen]]
+			[[Bitbreitenerweiterung]]
 	[[Umrechnen zwischen Zahlensystemen]]
 		[[Nibble-Werte]]
 	[[Vorzeichenloses Stellenwertsystem]]
 	[[Vorzeichenbehaftete Binärzahlen]]
-[[SystemVerilog]]
-[[Logikschaltungen]]
-	[[Logikgatter]]
-	[[Spannungen als Logikpegel]]
-	[[CMOS-Schaltungen]]
-	[[Transmissionsgatter]]
+***
+[[Logische Schaltungen]]
+	[[Arten von logischen Schaltungen]]
+		[[Kombinatorische Logik]]
+		[[Sequentielle Logik]]
+	[[Komponenten einer logischen Schaltung]]
+		[[Logikgatter]]
+	[[Physik in logischen Schaltungen]]
+		[[Spannungen als Logikpegel]]
+		[[Feldeffekt-Transistoren]]
+		[[CMOS-Schaltungen]]
+		[[Transmissionsgatter]]
+		[[Leistungsaufnahme]]
+***
+[[Boole'sche Gleichungen]]
+	[[Operatorpräzedenz]]
+	[[Disjunktive Normalform (DNF)|Disjunktive Normalform]]
+		[[Minterm]]
+	[[Konjunktive Normalform (KNF)]]
+		[[Maxterm]]
+***

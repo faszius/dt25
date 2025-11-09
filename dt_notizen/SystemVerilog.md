@@ -2,38 +2,15 @@
 tags:
   - foliensatz/01
   - cleaned
+  - "#MoC"
+  - foliensatz/02
+  - foliensatz/04
 Related:
   - "[[Hardwarebeschreibungssprachen]]"
 ---
 
-## Syntax für numerische Literale in SystemVerilog
-
-- Syntax: `<N>'<B><wert>`
-	- `<N>` = Bitbreite (Anzahl der genutzten Bits, d.h. Stellen im Binärsystem)
-	- `<B>` = Basis (`d`, `b`, `o`, `h`)
-	- Beide Angaben sind optional (default: `32'd`)
-	- Werte werden schlussendlich automatisch umgerechnet und binär dargestellt und mit führenden 0en bis zur Bitbreite aufgefüllt
-	- Unterstriche als optische Trenner möglich (werden ignoriert)
-
-### Beispiele
-
-![[Screenshot 2025-10-17 at 10.53.40.png]]
-
-## [[Logikgatter]]
-
-BUF:
-	`assign Y = A;`
-NOT:
-	`assign Y = ~A;`
-AND:
-	`assign Y = A & B;`
-OR:
-	`assign Y = A | B;`
-XOR:
-	`assign Y = A ^ B;`
-NAND:
-	`assign Y = A ~& B;`
-NOR:
-	`assign A ~| B;`
-XNOR:
-	`assign Y = A ~^ B;`
+[[SystemVerilog für numerische Literale]]
+[[SystemVerilog Syntax]]
+[[SystemVerilog für Logikgatter]]
+[[SystemVerilog Module]]
+	[[SystemVerilog Verhaltens- und Strukturbeschreibung]]

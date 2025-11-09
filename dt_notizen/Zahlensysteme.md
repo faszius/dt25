@@ -5,6 +5,7 @@ tags:
   - MoC
 Related:
   - "[[Umrechnen zwischen Zahlensystemen]]"
+  - "[[Binärsystem]]"
 ---
 
 ## Häufig Verwendete Basen
