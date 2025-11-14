@@ -10,6 +10,7 @@ Related:
   - "[[Operatorpräzedenz]]"
   - "[[Disjunktive Normalform (DNF)]]"
   - "[[Konjunktive Normalform (KNF)]]"
+  - "[[Boole'sche Algebra]]"
 ---
 
 ## Boole'sche Gleichungen

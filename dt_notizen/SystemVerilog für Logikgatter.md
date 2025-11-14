@@ -2,6 +2,7 @@
 tags:
   - foliensatz/02
   - cleaned
+  - foliensatz/05
 ---
 
 BUF:
@@ -20,3 +21,5 @@ NOR:
 	`assign A ~| B;`
 XNOR:
 	`assign Y = A ~^ B;`
+MUX:
+	`assign Y = S0 ? A1 : A0;`

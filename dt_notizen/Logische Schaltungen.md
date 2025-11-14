@@ -9,7 +9,7 @@ Related:
 ---
 
 [[Arten von logischen Schaltungen]]
-[[Komponenten einer logischen Schaltung]]
+[[Kombinatorische Grundelemente]]
 [[Physik in logischen Schaltungen]]
 
 ## Abstrakte Eigenschaften logischer Schaltungen

@@ -2,8 +2,12 @@
 tags:
   - foliensatz/04
   - cleaned
+  - "#MoC"
 Related:
   - "[[Logikgatter]]"
+  - "[[Zweistufige Logik]]"
+  - "[[Multiplexer]]"
+  - "[[Decoder]]"
 ---
 
 ## Komponenten einer logischen Schaltung

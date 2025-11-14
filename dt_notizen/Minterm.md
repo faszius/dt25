@@ -3,6 +3,8 @@ tags:
   - foliensatz/04
   - cleaned
 Related:
+aliases:
+  - Minterme
 ---
 - Produkt (Implikant), das _jede_ Eingangsvariable _genau einmal_ enthält
 - Entspricht einer Zeile in einer Wahrheitswertetabelle

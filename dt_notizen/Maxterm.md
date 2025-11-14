@@ -4,6 +4,8 @@ tags:
   - cleaned
 Related:
   - "[[Konjunktive Normalform (KNF)]]"
+aliases:
+  - Maxterme
 ---
 
 - Summe, welche _jede_ Eingangsvariable _genau einmal_ enthält
