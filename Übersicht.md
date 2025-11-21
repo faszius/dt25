@@ -4,7 +4,6 @@ tags:
   - linker-exclude
 ---
 
-***
 [[Beherrschen von Komplexität]]
 	[[Abstraktion]]
 	[[Disziplin]]
@@ -45,6 +44,7 @@ tags:
 		[[CMOS-Schaltungen]]
 		[[Transmissionsgatter]]
 		[[Leistungsaufnahme]]
+	[[Zeitverhalten]]
 ***
 [[Boole'sche Gleichungen]]
 	[[Operatorpräzedenz]]
@@ -52,6 +52,10 @@ tags:
 		[[Minterm]]
 	[[Konjunktive Normalform (KNF)]]
 		[[Maxterm]]
-	[[Boole'sche Algebra]]
-		[[Bubble Pushing]]
-***
+	[[Logikminimierung]]
+		[[Boole'sche Algebra]]
+			[[Bubble Pushing]]
+			[[Mehrwertige Logik]]
+		[[Karnaugh Diagramme]]
+			[[Graycode]]
+		[[Algorithmische Logikminimierung]]

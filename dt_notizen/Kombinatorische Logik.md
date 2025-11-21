@@ -2,6 +2,8 @@
 tags:
   - foliensatz/04
   - cleaned
+aliases:
+  - kombinatorisch
 ---
 
 ## Eigenschaften kombinatorischer Logik

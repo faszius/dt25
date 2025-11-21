@@ -6,11 +6,12 @@ tags:
 aliases:
   - boole'sche
   - boolesche
+  - Boole'sche Ausdrücke
 Related:
   - "[[Operatorpräzedenz]]"
   - "[[Disjunktive Normalform (DNF)]]"
   - "[[Konjunktive Normalform (KNF)]]"
-  - "[[Boole'sche Algebra]]"
+  - "[[Logikminimierung]]"
 ---
 
 ## Boole'sche Gleichungen

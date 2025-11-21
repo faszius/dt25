@@ -4,6 +4,7 @@ tags:
   - cleaned
 Related:
   - "[[Bubble Pushing]]"
+  - "[[Mehrwertige Logik]]"
 ---
 
 ## Boole'sche Algebra
