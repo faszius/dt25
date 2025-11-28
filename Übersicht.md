@@ -16,6 +16,14 @@ tags:
 	[[SystemVerilog für Logikgatter]]
 	[[SystemVerilog Module]]
 		[[SystemVerilog Verhaltens- und Strukturbeschreibung]]
+	[[Verzögerungen in SystemVerilog]]
+	[[SystemVerilog Datentypen]]
+		[[SystemVerilog Vektoren]]
+	[[SystemVerilog für kombinatorische Logik]]
+		[[SystemVerilog Verknüpfungsoperatoren]]
+		[[Zuweisungen in SystemVerilog]]
+		[[SystemVerilog Konkatenation]]
+		[[SystemVerilog Fallunterscheidungen]]
 ***
 [[Zahlensysteme]]
 	[[Binärsystem]]
@@ -59,3 +67,8 @@ tags:
 		[[Karnaugh Diagramme]]
 			[[Graycode]]
 		[[Algorithmische Logikminimierung]]
+***
+[[Arithmetische Grundschaltungen]]
+	[[Shifter]]
+	[[Addierer]]
+	[[Ripple-Carry-Adder (RCA)]]

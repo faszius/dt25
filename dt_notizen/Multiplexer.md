@@ -2,6 +2,8 @@
 tags:
   - foliensatz/05
   - cleaned
+aliases:
+  - MUX
 ---
 
 ## Multiplexer
