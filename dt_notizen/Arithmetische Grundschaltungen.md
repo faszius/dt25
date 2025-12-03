@@ -3,6 +3,7 @@ tags:
   - foliensatz/07
   - "#MoC"
   - cleaned
+  - foliensatz/08
 Related:
   - "[[Shifter]]"
   - "[[Addierer]]"
@@ -14,6 +15,8 @@ Related:
 - [[Shifter]]
 - [[Addierer]]
 - [[Ripple-Carry-Adder (RCA)]]
+- [[Conditional Sum Adder (CSA)]]
+- [[Carry Lookahead Adder (CLA)]]
 
 ## Weitere arithmetische Grundschaltungen
 
@@ -47,4 +50,3 @@ Related:
 
 Als physische Schaltung sieht das ganze so aus:
 ![[Pasted image 20251128140946.png]]
-
