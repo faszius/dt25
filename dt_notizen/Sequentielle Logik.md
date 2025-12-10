@@ -5,6 +5,7 @@ tags:
   - cleaned
 aliases:
   - sequentiell
+Related:
 ---
 
 ## Sequentielle Schaltungen
@@ -40,22 +41,4 @@ aliases:
 	- Verhalten abhängig von Herstellungsprozess, Spannung, Temperatur
 	- Nicht vorhersagbar
 
-## Entwurf synchroner sequentieller Logik
-
-- Rückkopplungen durch Register aufbrechen
-	- Halten den Zustand der Schaltung
-	- Ändern Zustand nur zur Taktflanke
-	- Gesamte Schaltung synchronisiert mit Taktflanke
-
-![[Pasted image 20251203195807.png]]
-
-## Synchrone sequentielle Schaltungen
-
-- Regeln für Aufbau
-	- Jedes Schaltungselement ist entweder Register oder kombinatorische Schaltung
-	- Mindestens ein Schaltungselement ist ein Register
-	- Alle Register werden durch das gleiche Taktsignal gesteuert
-	- Jeder zyklische Pfad enthält mindestens ein Register
-- Anwendungsbeispiele
-	- [[Pipelines]]
-	- [[Endliche Zustandsautomaten]]
+Um das zu beheben, nutzen wir [[Synchron Sequentielle Logik]]

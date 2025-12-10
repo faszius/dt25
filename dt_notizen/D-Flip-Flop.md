@@ -4,6 +4,9 @@ tags:
   - cleaned
 Related:
   - "[[Vergleich D-Latch mit D-Flip-Flop]]"
+aliases:
+  - Register
+  - Flip-Flop
 ---
 
 ## D-Flip-Flop

@@ -7,10 +7,10 @@ tags:
 
 ## Wichtige SystemVerilog-Konstrukte für kombinatorische Logik
 
-[[SystemVerilog Verknüpfungsoperatoren]]
-[[Zuweisungen in SystemVerilog]]
-[[SystemVerilog Konkatenation]]
-[[SystemVerilog Fallunterscheidungen]]
+- [[SystemVerilog Verknüpfungsoperatoren]]
+- [[Zuweisungen in SystemVerilog]]
+- [[SystemVerilog Konkatenation]]
+- [[SystemVerilog Fallunterscheidungen]]
 
 ## Weitere Konstrukte
 

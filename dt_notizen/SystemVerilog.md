@@ -25,3 +25,7 @@ aliases:
 	[[Zuweisungen in SystemVerilog]]
 	[[SystemVerilog Konkatenation]]
 	[[SystemVerilog Fallunterscheidungen]]
+[[SystemVerilog für sequentielle Logik]]
+	[[SystemVerilog Clock Signal]]
+	[[SystemVerilog always Block]]
+	[[SystemVerilog Speicherelemente]]

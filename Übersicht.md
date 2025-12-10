@@ -24,6 +24,10 @@ tags:
 		[[Zuweisungen in SystemVerilog]]
 		[[SystemVerilog Konkatenation]]
 		[[SystemVerilog Fallunterscheidungen]]
+	[[SystemVerilog für sequentielle Logik]]
+		[[SystemVerilog Clock Signal]]
+		[[SystemVerilog always Block]]
+		[[SystemVerilog Speicherelemente]]
 ***
 [[Zahlensysteme]]
 	[[Binärsystem]]
@@ -49,6 +53,8 @@ tags:
 			[[Vergleich D-Latch mit D-Flip-Flop]]
 			[[Flip-Flops mit Taktfreigabe]]
 			[[Zurücksetzbare Flip-Flops]]
+			[[Synchron Sequentielle Logik]]
+				[[Metastabilität]]
 	[[Kombinatorische Grundelemente]]
 		[[Logikgatter]]
 		[[Zweistufige Logik]]
@@ -82,3 +88,5 @@ tags:
 	[[Ripple-Carry-Adder (RCA)]]
 	[[Conditional Sum Adder (CSA)]]
 	[[Carry Lookahead Adder (CLA)]]
+---
+[[Parallelität]]
