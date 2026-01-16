@@ -28,7 +28,7 @@ aliases:
 Parametrisierter Addierer:
 ![[Pasted image 20260116162253.png]]
 
-Parametrisierter Counter:
+Und wie dieser in einem counter instanziiert wird:
 ![[Pasted image 20260116162300.png]]
 
 Parametrisiertes Register:
