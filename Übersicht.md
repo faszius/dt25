@@ -29,6 +29,9 @@ tags:
 		[[SystemVerilog always Block]]
 		[[SystemVerilog Speicherelemente]]
 	[[SystemVerilog für Zustandsautomaten]]
+	[[SystemVerilog für parametrisierte Module]]
+		[[SystemVerilog iterative Instanziierung]]
+	[[SystemVerilog für Testumgebungen]]
 ***
 [[Zahlensysteme]]
 	[[Binärsystem]]
@@ -94,3 +97,5 @@ tags:
 ***
 [[Endliche Zustandsautomaten]]
 	[[Hardware für endliche Zustandsautomaten]]
+	[[Moore vs Mealy]]
+	[[Zerlegen von Zustandsautomaten]]

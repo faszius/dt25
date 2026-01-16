@@ -21,3 +21,5 @@ aliases:
 [[SystemVerilog für kombinatorische Logik]]
 [[SystemVerilog für sequentielle Logik]]
 [[SystemVerilog für Zustandsautomaten]]
+[[SystemVerilog für parametrisierte Module]]
+[[SystemVerilog für Testumgebungen]]

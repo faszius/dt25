@@ -2,6 +2,8 @@
 tags:
   - foliensatz/01
   - cleaned
+aliases:
+  - HDL
 ---
 
 ## Notwendigkeit Von HDLs (Hardware Description Language)

@@ -7,8 +7,11 @@ aliases:
   - FSM
   - Moore
   - Mealy
+  - Zustandsautomat
 Related:
   - "[[Hardware für endliche Zustandsautomaten]]"
+  - "[[Moore vs Mealy]]"
+  - "[[Zerlegen von Zustandsautomaten]]"
 ---
 
 ## Endliche Zustandsautomaten 
@@ -132,3 +135,10 @@ Moore:
 
 Mealy:
 ![[Pasted image 20251219114532.png]]
+
+## [[Zeitverhalten]] für 101 Mustererkennung
+
+![[Pasted image 20260116160853.png]]
+
+- Mealy-Automat erkennt Muster einen Takt früher
+
