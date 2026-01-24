@@ -6,7 +6,7 @@ tags:
 
 ![[Pasted image 20260124112934.png]]
 
-- Für RAM in SystemVerilog benutzen wir [[SystemVerilog Arrays und Vektoren|Arrays]] und [[[[SystemVerilog Arrays und Vektoren|Vektoren]]
+- Für RAM in SystemVerilog benutzen wir [[SystemVerilog Arrays und Vektoren|Arrays]] und [[SystemVerilog Arrays und Vektoren|Vektoren]]
 - Wir haben Inputs für:
 	- Breite des Speicherfelds
 	- Tiefe des Speicherfelds
